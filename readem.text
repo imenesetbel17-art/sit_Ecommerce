@@ -1,0 +1,44 @@
+===========================================
+PROJET WEB - PÉTALES D'EXCEPTION
+===========================================
+
+📌 DESCRIPTION DU SITE :
+Site e-commerce de luxe spécialisé dans la vente de bouquets et 
+compositions florales. 30 produits répartis en 3 catégories :
+- Bouquets Royaux (prestige, élégance)
+- Roses Éternelles (passion, romantisme)
+- Compositions Bohème (nature, légèreté)
+
+Fonctionnalités :
+- Authentification simulée (inscription/connexion avec localStorage)
+- Panier d'achat persistant
+- Filtrage dynamique des produits par catégorie (côté client)
+- Thème clair/sombre (bouton Jour/Nuit)
+- Validation des formulaires avec Regex
+- Design responsive et luxueux
+- Prix en DZD (paiement à la livraison style algérien)
+
+👥 MEMBRES DU GROUPE :
+- IMENE_SETBEL
+
+🔧 INSTRUCTIONS D'UTILISATION :
+1. Ouvrir index.html dans un navigateur
+2. S'inscrire ou se connecter (compte démo: demo@fleurs.com / 123456)
+3. Parcourir les produits, filtrer par catégorie
+4. Ajouter des articles au panier
+5. Accéder au profil pour visualiser et gérer le panier
+6. Utiliser le bouton Jour/Nuit dans la barre de navigation
+
+✅ CONTRAINTES TECHNIQUES RESPECTÉES :
+✓ HTML/CSS/JS séparés (fichiers externes)
+✓ Balises sémantiques HTML5
+✓ Responsive (mobile friendly)
+✓ Filtrage client (pas de pages HTML par catégorie)
+✓ Données produits dans tableau JavaScript (30 articles)
+✓ Authentification simulée avec localStorage
+✓ Validation Regex (email, mot de passe min 4 caractères)
+
+🚀 HÉBERGEMENT (optionnel) :
+[À remplir si vous hébergez sur GitHub Pages ou Netlify]
+
+===========================================
